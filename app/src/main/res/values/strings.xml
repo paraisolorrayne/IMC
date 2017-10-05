@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculadoraIMC</string>
+    <string name="result">O seu IMC é:</string>
+    <string name="weight">Digite o Peso(kg):</string>
+    <string name="height">Digite a Altura(m):</string>
+    <string name="calculate">Calcular</string>
+    <string name="title">Calculadora de IMC</string>
+    <string name="severe_thinness">Magreza Grave</string>
+    <string name="moderate_thinness">Magreza Moderada</string>
+    <string name="light_thinness">Magreza Leve</string>
+    <string name="healthy">Saudável</string>
+    <string name="Overweight">Sobrepeso</string>
+    <string name="Overweight1">Obesidade Grau I</string>
+    <string name="Overweight2">Obesidade Grau II</string>
+    <string name="Overweight3">Obesidade Grau III</string>
+</resources>
